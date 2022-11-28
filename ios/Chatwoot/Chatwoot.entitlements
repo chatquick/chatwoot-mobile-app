@@ -6,8 +6,8 @@
 	<string>development</string>
 	<key>com.apple.developer.associated-domains</key>
 	<array>
-		<string>applinks:staging.chatwoot.com</string>
-		<string>applinks:app.chatwoot.com</string>
+		<string>applinks:staging.quicksales.vn</string>
+		<string>applinks:app.quicksales.vn</string>
 	</array>
 </dict>
 </plist>

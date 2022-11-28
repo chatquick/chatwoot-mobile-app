@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://s3.us-west-2.amazonaws.com/gh-assets.chatwoot.com/brand.svg" alt="Woot-logo" width="240">
+  <img src="https://s3.us-west-2.amazonaws.com/gh-assets.quicksales.vn/brand.svg" alt="Woot-logo" width="240">
 
   <div align="center">Mobile app for chatwoot platform. Built with React Native</div>
   <div align="center">Chatwoot is an opensource alternative to Intercom, Zendesk, Drift, Crisp etc.</div>
@@ -68,9 +68,9 @@ You can leave the Beta testing program at any time:
 
 Feel free to send us feedback on [Twitter](https://twitter.com/chatwootapp) or [file an issue](https://github.com/chatwoot/chatwoot-mobile-app/issues).
 
-If you wish to contribute, please take a quick look at the [CONTRIBUTING.md](https://www.chatwoot.com/docs/contributing-guide) and [SETUP_GUIDE.md](https://www.chatwoot.com/docs/contributing-guide/mobile-app/setup-guide).
+If you wish to contribute, please take a quick look at the [CONTRIBUTING.md](https://www.quicksales.vn/docs/contributing-guide) and [SETUP_GUIDE.md](https://www.quicksales.vn/docs/contributing-guide/mobile-app/setup-guide).
  
-If you want to self deploy the Chatwoot mobile app, please take a look at the [CUSTOM_RELEASE_GUIDE.md](https://www.chatwoot.com/docs/contributing-guide/mobile-app/custom-release-guide) guide.
+If you want to self deploy the Chatwoot mobile app, please take a look at the [CUSTOM_RELEASE_GUIDE.md](https://www.quicksales.vn/docs/contributing-guide/mobile-app/custom-release-guide) guide.
 
 If there's anything you'd like to chat about, please feel free to join our [Discord](https://discord.gg/cJXdrwS) chat!
 

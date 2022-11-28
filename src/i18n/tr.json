@@ -14,7 +14,7 @@
   },
   "CONFIGURE_URL": {
     "ENTER_URL": "Kurulum URL'si",
-    "DESCRIPTION": "If you are using a self-hosted Chatwoot installation, input your server URL. Otherwise, use app.chatwoot.com.",
+    "DESCRIPTION": "If you are using a self-hosted Chatwoot installation, input your server URL. Otherwise, use app.quicksales.vn.",
     "URL_ERROR": "Geçerli bir URL girin",
     "URL_REQUIRED": "URL is required",
     "CONNECT": "Bağlan",

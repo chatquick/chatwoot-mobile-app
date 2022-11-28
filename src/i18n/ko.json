@@ -14,7 +14,7 @@
   },
   "CONFIGURE_URL": {
     "ENTER_URL": "설치 URL",
-    "DESCRIPTION": "만약 자체 호스팅한 Chatwoot 설치를 사용하는 경우 서버 링크를 입력하세요. 그렇지 않으면 app.chatwoot.com을 사용하세요.",
+    "DESCRIPTION": "만약 자체 호스팅한 Chatwoot 설치를 사용하는 경우 서버 링크를 입력하세요. 그렇지 않으면 app.quicksales.vn을 사용하세요.",
     "URL_ERROR": "유효한 URL을 입력해주세요",
     "URL_REQUIRED": "링크가 필요합니다",
     "CONNECT": "연결",

@@ -14,7 +14,7 @@
   },
   "CONFIGURE_URL": {
     "ENTER_URL": "Installatie url",
-    "DESCRIPTION": "Als je een zelf gehoste Chatwoot-installatie gebruikt, voer dan de URL van jouw server in. Gebruik anders: app.chatwoot.com.",
+    "DESCRIPTION": "Als je een zelf gehoste Chatwoot-installatie gebruikt, voer dan de URL van jouw server in. Gebruik anders: app.quicksales.vn.",
     "URL_ERROR": "Voer een geldige URL in",
     "URL_REQUIRED": "URL is vereist",
     "CONNECT": "Koppelen",

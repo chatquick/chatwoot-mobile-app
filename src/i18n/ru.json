@@ -14,7 +14,7 @@
   },
   "CONFIGURE_URL": {
     "ENTER_URL": "URL установки",
-    "DESCRIPTION": "Если вы используете установку Chatwoot, введите URL вашего сервера. В противном случае используйте app.chatwoot.com.",
+    "DESCRIPTION": "Если вы используете установку Chatwoot, введите URL вашего сервера. В противном случае используйте app.quicksales.vn.",
     "URL_ERROR": "Введите правильный URL",
     "URL_REQUIRED": "Необходимо указать URL",
     "CONNECT": "Подключиться",

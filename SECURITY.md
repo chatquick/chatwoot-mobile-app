@@ -7,7 +7,7 @@ We use [huntr.dev](https://huntr.dev/) for security issues that affect our proje
 
 This will enable us to review the vulnerability, fix it promptly, and reward you for your efforts.
 
-If you have any questions about the process, feel free to reach out to security@chatwoot.com.
+If you have any questions about the process, feel free to reach out to security@quicksales.vn.
 
 
 ## Out of scope

@@ -14,7 +14,7 @@
   },
   "CONFIGURE_URL": {
     "ENTER_URL": "URL dell'installazione",
-    "DESCRIPTION": "Se stai usando un'installazione di Chatwoot auto-ospitata, inserisci l'URL del tuo server. Altrimenti, usa app.chatwoot.com.",
+    "DESCRIPTION": "Se stai usando un'installazione di Chatwoot auto-ospitata, inserisci l'URL del tuo server. Altrimenti, usa app.quicksales.vn.",
     "URL_ERROR": "Inserisci un URL valido",
     "URL_REQUIRED": "URL obbligatorio",
     "CONNECT": "Connetti",

@@ -14,7 +14,7 @@
   },
   "CONFIGURE_URL": {
     "ENTER_URL": "URL cài đặt",
-    "DESCRIPTION": "Nếu bạn đang dùng Chatwoot tự chủ, điền URL máy chủ của bạn. Nếu không, dùng app.chatwoot.com.",
+    "DESCRIPTION": "Nếu bạn đang dùng Chatwoot tự chủ, điền URL máy chủ của bạn. Nếu không, dùng app.quicksales.vn.",
     "URL_ERROR": "Điền URL hợp lệ",
     "URL_REQUIRED": "URL bắt buộc có",
     "CONNECT": "Kết nối",

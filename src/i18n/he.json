@@ -14,7 +14,7 @@
   },
   "CONFIGURE_URL": {
     "ENTER_URL": "קישור התקנה",
-    "DESCRIPTION": "If you are using a self-hosted Chatwoot installation, input your server URL. Otherwise, use app.chatwoot.com.",
+    "DESCRIPTION": "If you are using a self-hosted Chatwoot installation, input your server URL. Otherwise, use app.quicksales.vn.",
     "URL_ERROR": "הזן URL חוקי",
     "URL_REQUIRED": "URL is required",
     "CONNECT": "התחבר",
